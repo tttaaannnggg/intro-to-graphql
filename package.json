@@ -53,10 +53,11 @@
     "restoreMocks": true
   },
   "dependencies": {
-    "apollo-server": "^2.2.5",
-    "bcrypt": "^3.0.2",
+    "apollo-server": "^2.3.1",
+    "bcrypt": "^3.0.6",
+    "core-js": "^3.0.0-beta.11",
     "cuid": "^2.1.4",
-    "graphql": "^14.0.2",
+    "graphql": "^14.5.8",
     "graphql-import": "^0.7.1",
     "graphql-tools": "^4.0.3",
     "lodash": "^4.17.11",
